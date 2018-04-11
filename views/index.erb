@@ -2,7 +2,7 @@
 
 <h4>List of contacts</h4>
 <% @contacts.each do |person| %>
-  <p><%= person.name %>: <%= person.name %> </p>
+  <p><a href="/contact/<%= person.id %>"><%= person.name %></a></p>
 <% end %>
 
 <form action="/" method="post">
