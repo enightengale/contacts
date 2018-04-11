@@ -4,9 +4,12 @@ class Contact
 
   @@contacts = []
 
-  def initialize(name, phone)
+  attr_accessor :name
+  attr_accessor :number
+
+  def initialize(name, number)
     @name = name
-    @phone = phone
+    @number = number
   end
 
   def self.all()
@@ -18,5 +21,3 @@ class Contact
   end
 
 end
-
-binding.pry

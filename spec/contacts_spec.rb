@@ -16,4 +16,6 @@ describe("Contact") do
       expect(Contact.all()).to(eq([john]))
     end
   end
+
+  
 end
