@@ -1,2 +1,2 @@
 # Keep track of your Contacts
-##### Follow [this link](https://fathomless-wave-62664.herokuapp.com/) to add your contact information. I've recently just started working with Sinatra so this project has been extremely helpful. Setting up routes, forms, and keeping track of each Contact with a different ID was very exciting. Hopefully soon I'll be working with SQL so that I won't have to manually keep track of each Contact's ID.
+###### Follow [this link](https://fathomless-wave-62664.herokuapp.com/) to add your contact information. I've recently just started working with Sinatra so this project has been extremely helpful. Setting up routes, forms, and keeping track of each Contact with a different ID was very exciting.
